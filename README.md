@@ -1,0 +1,1 @@
+Ruby project using a gem to generate a countries information then emails it to any email a user types in 
